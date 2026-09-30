@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>My Profile</h1>
+    <p>Name: Sai Kusuma</p>
+    <p>Exploring Git and GitHub.</p>
+
+</body>
+</html>
